@@ -1,4 +1,6 @@
-### Hi there 👋
+### And...
+
+He's too lazy to write anything here.
 
 <!--
 **Zerlight/Zerlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
